@@ -14,5 +14,7 @@ This project focuses on analyzing pizza sales data to uncover meaningful busines
 * Provide actionable recommendations to enhance customer experience, increase loyalty, and drive overall business growth.
 
 
-<img width="644" height="326" alt="pizza sales dashboard 1" src="https://github.com/user-attachments/assets/4efb47a5-7d83-4529-975f-3786a33a9b0a" />
-<img width="645" height="328" alt="pizza sales dshboard 2" src="https://github.com/user-attachments/assets/712acc97-a36d-4917-bda1-a3a7a4a1bdca" />
+<img width="644" height="326" alt="pizza sales dashboard 1" src="https://github.com/user-attachments/assets/10fe572e-4696-4247-b582-021c18aec0c3" />
+<img width="645" height="328" alt="pizza sales dshboard 2" src="https://github.com/user-attachments/assets/2e0e5dd0-2f82-43b6-8e16-2d85e83b0bc1" />
+
+
